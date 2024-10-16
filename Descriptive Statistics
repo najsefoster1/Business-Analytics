@@ -58,7 +58,7 @@ print(f"Median:\n{overall_median}\n")
 print(f"Max:\n{overall_max}\n")
 print(f"Min:\n{overall_min}\n")
 
-# Output the statistics by 'STATUS'
+#Output the statistics by 'STATUS'
 print("\nStatistics by STATUS:")
 print(f"Mean:\n{status_mean}\n")
 print(f"Standard Deviation:\n{status_std}\n")
@@ -66,8 +66,8 @@ print(f"Median:\n{status_median}\n")
 print(f"Max:\n{status_max}\n")
 print(f"Min:\n{status_min}\n")
 
-# Textual description of the findings
-#This description explains the results from the calculations and visualizations, and discusses the implications of the data distribution for Unit 1 number 4
+
+#description explains the results from the calculations and visualizations, and discusses the implications of the data distribution for Unit 1 number 4
 
 text_description = """
 Textual Description:
